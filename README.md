@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Working as a software development engineer with [Asort](asort.com).
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarsk98&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats).  
+- 🔭 Working as a software development engineer with [Asort](asort.com).
+- 🌱 Graduated from Manipal University Jaipur.
+- 👯 I’m looking to collaborate on nodejs, js
+- 📫 How to reach me: omkarsk98@gmail.com.  
+[![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarsk98&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsk98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 Running for the long way ahead!
